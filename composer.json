@@ -1,0 +1,10 @@
+{
+    "name": "your/name",
+    "description": "description",
+    "support": {
+        "email": "your@email.com"
+    },
+    "autoload": {
+        "psr-4": { "your\\namespace": "app/" }
+    }
+}

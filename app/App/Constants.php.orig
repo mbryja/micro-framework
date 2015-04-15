@@ -1,0 +1,8 @@
+<?php
+define('__DOCUMENT_ROOT__', "/www/sites/www.cpsws.net/photo_widget");
+
+define('__UPLOAD_DIR__', "/www/sites/www.cpsws.net/photo_widget/uploads");
+
+define('__HTTP_URL__', "http://cpsws.mbryja.it/photo_widget");
+
+define('__HOST__', "cpsws.mbryja.it");
